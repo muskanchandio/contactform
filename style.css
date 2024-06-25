@@ -1,0 +1,47 @@
+.b1{
+    background-color:rgb(247, 167, 20);
+}
+.nav{
+    background-color: white;
+}
+
+h1{
+    font-weight: 500;
+ 
+}
+.b2{
+   color: orange;
+    font-weight: 500;
+}
+.img1{
+    background-color: lightblue;
+    border-radius: 50px;
+}
+.img2{
+    background-color: lightpink;
+    border-radius: 50px;
+}
+.img3{
+    background-color: lightcoral;
+    border-radius: 50px;
+}
+.first{
+    background-color: white;
+}
+.box{
+    background-color: white;
+    border-radius:5px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.body{
+    margin-bottom: -150px;
+    background-color: rgb(215, 211, 211);
+}
+.footer{
+   
+    background-color: white;
+}
+.text2{
+    border: 2px solid rgb(215, 211, 211);
+}
+
